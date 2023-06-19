@@ -29,4 +29,3 @@ def c_conversora():
     if base == 3:
         
         c_hexa(coc)
-
